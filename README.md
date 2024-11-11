@@ -1,6 +1,4 @@
-<div  align="center">
-
-<h4>Weather App is an application responsible for showing climate data of a given city in real time.</h4>
+<h1>Weather App is an application responsible for showing climate data of a given city in real time.</h1>
 <p>
 
 ---
@@ -19,7 +17,7 @@ From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/joaovictornsv/climate-app
+$ git clone https://github.com/AhmadHusirami/Weather-App.git
 
 # Go into the repository
 $ cd weather-app(name of file)
